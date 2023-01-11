@@ -7,7 +7,7 @@ This README.md is a test to ensure GitHub is in sync with PyCharm and Visual Stu
 <!--- Title -->
 <head>
     <h3 align="left">
-    testing GitHub Sync
+    Testing GitHub Sync
     </h3>
 </head>
 
