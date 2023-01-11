@@ -16,7 +16,10 @@ This README.md is a test to ensure GitHub is in sync with PyCharm and Visual Stu
 <body>
     <p align="left">
         Did this work? (typed within VSCode MBA)
+        <br>
         Yes! it worked (typed within GitHub website)
+        <br>
         Congrats (typed within PyCharm MBA)
+        <br>
     </p>
 </body>
