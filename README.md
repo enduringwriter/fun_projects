@@ -36,7 +36,7 @@ Fun projects that helped me to learn python
     <br>    
     - <b> Die_Single </b> - project incorporates user input.
     <br>
-    - <b> Die_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
+    - <b> Dice_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
     <br>
     - <b> Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
     <br>
