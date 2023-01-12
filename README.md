@@ -32,13 +32,13 @@ Fun projects that helped me to learn python
 </p>
 
 <p style="margin-left: 25px;">
-    <b> Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
+    - <b> Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
     <br>    
-    <b> Die_Single </b> - project incorporates user input.
+    - <b> Die_Single </b> - project incorporates user input.
     <br>
-    <b> Die_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
+    - <b> Die_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
     <br>
-    <b> Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
+    - <b> Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
     <br>
-    Finally, if I have time, as my Data Science program begins 17Jan, the data visualization will evolve to include the percentage of each die's contribution to the total frequency of each possible rolled value.
+    - Finally, if I have time, as my Data Science program begins 17Jan, the data visualization will evolve to include the percentage of each die's contribution to the total frequency of each possible rolled value.
 </p>
