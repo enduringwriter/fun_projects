@@ -40,5 +40,5 @@ Fun projects that helped me to learn python
     <br>
     - <b> Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
     <br>
-    - Finally, if I have time, as my Data Science program begins 17Jan, the data visualization will evolve to include the percentage of each die's contribution to the total frequency of each possible rolled value.
+    - Finally, if I have time, as my Data Science program begins 17Jan, the data visualization will evolve to include the percentage of each die's contribution to the total frequency for each possible rolled value.
 </p>
