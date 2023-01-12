@@ -36,7 +36,7 @@ Fun projects that helped me to learn python
         <dl>
             <dd>
                 <p style="margin-left: 25px;"> <!-- styles do not work in GitHub markdown files -->
-                    - <b> Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
+                    <b> Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
                     <br><br>
                     <b> Die_Single </b> - project incorporates user input.
                     <br><br>
