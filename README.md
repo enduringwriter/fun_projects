@@ -50,3 +50,32 @@ Fun projects that helped me to learn python
         </dl>
     </dd>
 </dl>
+<br>
+
+<!--- Project Heading for Weekly Paycheck -->
+<head>
+    <h3 align="left">
+    Weekly Paycheck
+    </h3>
+</head>
+
+<p>This project shows how a basic program evolves with the use of, for example, a function, a loop, and formatting the output. Much thanks to Angela Yu's 101 Python Days course - really good for beginners. The entire project is located in the folder titled, <b>Weekly_Paycheck</b>, and includes several files as shown below.
+</p>
+
+<dl>
+    <dd>
+        <dl>
+            <dd>
+                <p> <!-- <p style="margin-left: 25px;"> style does not work in GitHub markdown files. Therefore, use the dl, dd, and dt elements which are used to created indented lists. -->
+                    <b> 1_weekly_paycheck_basic.py </b> - file begins with user input and a weekly paycheck calculation.
+                    <br><br>
+                    <b> 2_weekly_paycheck_func.py </b> - file incorporates a user defined function.
+                    <br><br>
+                    <b> 3_weekly_paycheck_loop_&_format_of_paycheck.py </b> - project evolves into a loop so that the user may calculate the weekly paycheck continuously.
+                    <br><br>
+                    <b> 4_weekly_paycheck_valid_input.py </b> - project incorporates measures to prevent invalid input and errors that cause a program to crash.
+                </p>
+            </dd>
+        </dl>
+    </dd>
+</dl>
