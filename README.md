@@ -36,13 +36,13 @@ Fun projects that helped me to learn python
         <dl>
             <dd>
                 <p> <!-- <p style="margin-left: 25px;"> style does not work in GitHub markdown files. Therefore, use the dl, dd, and dt elements which are used to created indented lists. -->
-                    <b> Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
+                    <b> 1_Die_Single_No_Input </b> - project begins with a single die being rolled a certain number of times. After analyzing the data, it is then displayed as a chart.
                     <br><br>
-                    <b> Die_Single </b> - project incorporates user input.
+                    <b> 2_Die_Single </b> - project incorporates user input.
                     <br><br>
-                    <b> Dice_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
+                    <b> 3_Dice_Same_Num_of_Sides </b> - project evolves by rolling more than one die, but each die has the same number of sides.
                     <br><br>
-                    <b> Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
+                    <b> 4_Dice_Multiple_Num_of_Sides </b> - project allows the user to define the number of sides for each die.
                     <br><br>
                     Finally, if I have time, as my Data Science program begins 17Jan, the data visualization will evolve to include the percentage of each die's contribution to the total frequency for each possible rolled value.
                 </p>
