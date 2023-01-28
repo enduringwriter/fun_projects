@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 
+
 <!---
 Fun projects that helped me to learn python
 -->
@@ -52,6 +53,7 @@ Fun projects that helped me to learn python
 </dl>
 <br>
 
+
 <!--- Project Heading for Weekly Paycheck -->
 <head>
     <h3 align="left">
@@ -79,3 +81,41 @@ Fun projects that helped me to learn python
         </dl>
     </dd>
 </dl>
+
+
+<!--- Project Number Guessing Game -->
+<head>
+    <h3 align="left">
+    Number Guessing Game
+    </h3>
+</head>
+
+<p>This project shows code development over multiple stages. The original idea which I expanded upon came from the Angela Yu's 101 Python Days course. The entire project is located in the folder titled, <b>Guessing_Game</b>.
+</p>
+
+<dl>
+    <dd>
+        <dl>
+            <dd>
+                <p> <!-- <p style="margin-left: 25px;"> style does not work in GitHub markdown files. Therefore, use the dl, dd, and dt elements which are used to created indented lists. -->
+                    1_guessing_game_basic.py
+                    <br>
+                    2a_guessing_game_3_tries_v1_while_guess.py
+                    <br>
+                    2b_guessing_game_3_tries_while_total_attempts.py
+                    <br>
+                    3a_guessing_game_quit_or_continuous_play.py
+                    <br>
+                    3b_guessing_game_ask_continuous_play.py
+                    <br>
+                    3c_guessing_game_quit_and_ask_continuous_play.py
+                    <br>
+                    4_guessing_game_guess_high_low.py
+                    <br>
+                    5_guessing_game_guess_valid_input.py
+                </p>
+            </dd>
+        </dl>
+    </dd>
+</dl>
+<br>
