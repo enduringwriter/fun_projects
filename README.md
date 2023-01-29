@@ -100,7 +100,7 @@ Fun projects that helped me to learn python
                 <p> <!-- <p style="margin-left: 25px;"> style does not work in GitHub markdown files. Therefore, use the dl, dd, and dt elements which are used to created indented lists. -->
                     1_guessing_game_basic.py
                     <br>
-                    2a_guessing_game_3_tries_v1_while_guess.py
+                    2a_guessing_game_3_tries_while_guess.py
                     <br>
                     2b_guessing_game_3_tries_while_total_attempts.py
                     <br>
